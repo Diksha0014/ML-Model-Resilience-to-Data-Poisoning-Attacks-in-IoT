@@ -59,6 +59,14 @@ The project is based entirely on classical machine learning techniques and does 
 
 ---
 
+## 📄 Project Results
+The detailed project report for this work is available at the link below:
+
+🔗 Google Docs Report:  
+https://docs.google.com/document/d/1buE8WqAdf61wFu0pSuYavOW3Ui4xl3Iict-Zi9Qlm10/edit
+
+---
+
 ## 📄 License
 This project is licensed under the MIT License.
 
